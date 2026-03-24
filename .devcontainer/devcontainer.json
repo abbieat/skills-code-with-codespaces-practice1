@@ -1,0 +1,4 @@
+{
+  "name": "GCS Practise: Configuring Basic Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
+}
